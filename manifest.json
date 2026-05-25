@@ -1,5 +1,5 @@
 {
-  "name": "Registro Integral Pro - V2.6 Master Final",
+  "name": "Registro Integral Pro - V2.9 Master Final",
   "short_name": "Registro Int",
   "start_url": "./index.html",
   "display": "standalone",
